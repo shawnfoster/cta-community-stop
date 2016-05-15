@@ -1,2 +1,2 @@
 # cta-community-stop
-A site developed to locating CTA information in the area and broadcast relevant information online to a partner store.
+A site developed for locating CTA information in the area and broadcasting relevant info online to a partner store.
