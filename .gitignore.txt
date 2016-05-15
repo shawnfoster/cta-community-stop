@@ -1,0 +1,10 @@
+# Ignore the nvm file so people can use whichever Node version they like
+.nvmrc
+
+# This file is full of secrets! It should be ignored!
+envvars.sh
+
+# Node packages *must* be installed on each machine
+# after cloning manually. That means we have to ignore
+# the node_modules folder
+node_modules/
