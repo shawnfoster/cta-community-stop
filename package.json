@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shawnfoster/community-stop.git"
+    "url": "git+https://github.com/shawnfoster/cta-community-stop.git"
   },
   "keywords": [
     "chicago",
@@ -20,9 +20,9 @@
   "author": "Shawn Foster <shawn@deathsongdev.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shawnfoster/community-stop/issues"
+    "url": "https://github.com/shawnfoster/cta-community-stop/issues"
   },
-  "homepage": "https://github.com/shawnfoster/community-stop#readme",
+  "homepage": "https://github.com/shawnfoster/cta-community-stop#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-jshint": "^2.0.0",
